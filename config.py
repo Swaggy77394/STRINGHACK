@@ -7,6 +7,6 @@ class Config:
     API_HASH = "f4871ddfefa0b6c25047f29e573e0a0d"
     #TOKEN = "6521122303:AAGCO3XMjcA0SN5NAi1M0NpmbmMxEtwwYbg"
     TOKEN = os.environ.get("TOKEN", "8078339956:AAHSYifb0IqGm3v8eMI44v-5EqgF0I6IT2M")
-    MONGO_URL = "mongodb+srv://STRINGHACK:Nothing0000@cluster0.nbjdl3k.mongodb.net/?appName=Cluster0"
+    MONGO_URL = "mongodb+srv://SpicyxMusicBot:SpicyxMusicBot@spicyxmusicbot.sghwtvp.mongodb.net/?appName=SpicyxMusicBot"
     START_PIC = "https://telegra.ph/file/a8ba8edd60489a54f2f84.jpg"
     SUDOERS = filters.user(["924235973","7603581459"])
