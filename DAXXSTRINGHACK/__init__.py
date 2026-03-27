@@ -5,7 +5,7 @@ from config import Config
 from pyrogram import Client
 from rich.console import Console
 from rich.table import Table
-from .helpers.data import LOG_TEXT
+from .Helpers.data import LOG_TEXT
 from pyromod import listen 
 
 #getting variables
