@@ -1,1 +1,1 @@
-worker: python3 -m DAXXSTRINGHACK
+worker: python3 -m STRINGHACK.DAXXSTRINGHACK
